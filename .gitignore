@@ -1,0 +1,9 @@
+# Ignore dataset files
+Credit_Card_Fraud_Detection/data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
